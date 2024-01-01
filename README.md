@@ -19,6 +19,7 @@
 
 # 💻 Workspace Specs
 
+![Static Badge](https://img.shields.io/badge/SpeedTest_1Gbps-141526?style=for-the-badge&logo=speedtest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MSI-FF0000?style=for-the-badge&logo=msi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
@@ -30,6 +31,7 @@
 
 # ⚙️ Tech
 
+![Static Badge](https://img.shields.io/badge/Verizon_5G-CD040B?style=for-the-badge&logo=verizon&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Airpods_3rd_Gen-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Iphone_13_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white)
